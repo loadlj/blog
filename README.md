@@ -8,3 +8,4 @@
   * [Tornado之IOStream](https://github.com/loadlj/blog/issues/3)
   * [Tornado之HTTPServer](https://github.com/loadlj/blog/issues/4)
   * [Tornado之HTTPClient](https://github.com/loadlj/blog/issues/5)
+  * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
