@@ -9,3 +9,4 @@
   * [Tornado之HTTPServer](https://github.com/loadlj/blog/issues/4)
   * [Tornado之HTTPClient](https://github.com/loadlj/blog/issues/5)
   * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
+  * [Tornado之web.py](https://github.com/loadlj/blog/issues/7)
