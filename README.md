@@ -15,3 +15,4 @@
   
 ## MySql
  * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
+ * [mysql索引设计](https://github.com/loadlj/blog/issues/12)
