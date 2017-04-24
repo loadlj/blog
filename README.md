@@ -4,6 +4,7 @@
 
 ## Python
   * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
+  * [GIL初识](https://github.com/loadlj/blog/issues/13)
   
 ### Tornado
   * [关于Tornado](https://github.com/loadlj/blog/issues/1)
