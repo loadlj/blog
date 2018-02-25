@@ -17,5 +17,6 @@
   * [Tornado之stack_context(1.1.0)](https://github.com/loadlj/blog/issues/9)
   
 ## MySql
+ * [mysql初识](https://github.com/loadlj/blog/issues/14)
  * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
  * [mysql索引设计](https://github.com/loadlj/blog/issues/12)
