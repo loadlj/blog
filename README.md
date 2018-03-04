@@ -19,4 +19,5 @@
 ## MySql
  * [mysql初识](https://github.com/loadlj/blog/issues/14)
  * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
- * [mysql索引设计](https://github.com/loadlj/blog/issues/12)
+ * [mysql索引类型](https://github.com/loadlj/blog/issues/15)
+ * [高性能索引策略](https://github.com/loadlj/blog/issues/16)
