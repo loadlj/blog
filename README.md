@@ -1,5 +1,5 @@
 # Blog
-> 胡写一气的`issue`blog
+> 胡写一气的`issue`Blog
 
 
 ## Python
