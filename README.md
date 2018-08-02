@@ -1,12 +1,12 @@
 # Blog
-> 胡写一气的`issue`Blog
+> `issue`备忘录
 
 
 ## Python
 * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
 * [GIL初识](https://github.com/loadlj/blog/issues/13)
   
-### Tornado
+### Tornado源码分析
   * [关于Tornado](https://github.com/loadlj/blog/issues/1)
   * [Tornado之IOLoop(1.0.0)](https://github.com/loadlj/blog/issues/2)
   * [Tornado之IOStream(1.0.0)](https://github.com/loadlj/blog/issues/3)
@@ -21,3 +21,8 @@
  * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
  * [mysql索引类型](https://github.com/loadlj/blog/issues/15)
  * [高性能索引策略](https://github.com/loadlj/blog/issues/16)
+
+## Golang
+### nsq源码分析
+ * [nsqd](https://github.com/loadlj/blog/issues/17)
+ * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
