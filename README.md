@@ -26,3 +26,5 @@
 ### nsq源码分析
  * [nsqd](https://github.com/loadlj/blog/issues/17)
  * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
+ * [消息投递](https://github.com/loadlj/blog/issues/19)
+ * [Topic以及Channel](https://github.com/loadlj/blog/issues/20)
