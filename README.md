@@ -28,3 +28,4 @@
  * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
  * [消息投递](https://github.com/loadlj/blog/issues/19)
  * [Topic以及Channel](https://github.com/loadlj/blog/issues/20)
+ * [nsq其它组件](https://github.com/loadlj/blog/issues/21)
