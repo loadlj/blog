@@ -1,6 +1,8 @@
 # Blog
 > `issue`备忘录
 
+## 优化相关
+* [关于 CPU Cache](https://github.com/loadlj/blog/issues/24)
 
 ## Python
 * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
