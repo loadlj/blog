@@ -26,6 +26,8 @@
 
 ## Golang
  * [TCMalloc](https://github.com/loadlj/blog/issues/23)
+ * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
+ 
 ### nsq源码分析
  * [nsqd](https://github.com/loadlj/blog/issues/17)
  * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
