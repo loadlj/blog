@@ -1,5 +1,7 @@
 # Blog
 > `issue`备忘录
+## 分布式
+* [分布式锁的几种实现](https://github.com/loadlj/blog/issues/25)
 
 ## 优化相关
 * [关于 CPU Cache](https://github.com/loadlj/blog/issues/24)
