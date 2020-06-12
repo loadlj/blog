@@ -6,6 +6,7 @@
  * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
  * [Sync.Pool源码分析与演进](https://github.com/loadlj/blog/issues/27)
  * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
+ * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
  
 ## 分布式
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
