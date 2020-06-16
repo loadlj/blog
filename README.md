@@ -8,11 +8,13 @@
  * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
  * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
  
+## 优化相关
+* [关于 CPU Cache](https://github.com/loadlj/blog/issues/24)
+* [零拷贝](https://github.com/loadlj/blog/issues/30)
+
 ## 分布式
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 
-## 优化相关
-* [关于 CPU Cache](https://github.com/loadlj/blog/issues/24)
 
 ## Python
 * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
