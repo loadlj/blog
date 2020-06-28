@@ -13,6 +13,7 @@
 * [零拷贝](https://github.com/loadlj/blog/issues/30)
 
 ## 分布式
+* [ETCD Raft 实现（一）](https://github.com/loadlj/blog/issues/31)
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 
 
