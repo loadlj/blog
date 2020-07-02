@@ -4,7 +4,7 @@
 ## Golang
  * [TCMalloc](https://github.com/loadlj/blog/issues/23)
  * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
- * [Sync.Pool源码分析与演进](https://github.com/loadlj/blog/issues/27)
+ * [Sync.Pool源码分析](https://github.com/loadlj/blog/issues/27)
  * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
  * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
  
@@ -13,7 +13,7 @@
 * [零拷贝](https://github.com/loadlj/blog/issues/30)
 
 ## 分布式
-* [ETCD Raft 实现（一）](https://github.com/loadlj/blog/issues/31)
+* [Raft 相关概念](https://github.com/loadlj/blog/issues/31)
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 
 
