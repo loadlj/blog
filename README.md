@@ -16,6 +16,12 @@
 * [Raft 相关概念](https://github.com/loadlj/blog/issues/31)
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 
+## nsq源码分析
+ * [nsqd](https://github.com/loadlj/blog/issues/17)
+ * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
+ * [消息投递](https://github.com/loadlj/blog/issues/19)
+ * [Topic以及Channel](https://github.com/loadlj/blog/issues/20)
+ * [nsq其它组件](https://github.com/loadlj/blog/issues/21)
 
 ## Python
 * [Pyhton 装饰器和闭包](https://github.com/loadlj/blog/issues/6)
@@ -36,10 +42,3 @@
  * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
  * [mysql索引类型](https://github.com/loadlj/blog/issues/15)
  * [高性能索引策略](https://github.com/loadlj/blog/issues/16)
- 
-## nsq源码分析
- * [nsqd](https://github.com/loadlj/blog/issues/17)
- * [nsqlookupd](https://github.com/loadlj/blog/issues/18)
- * [消息投递](https://github.com/loadlj/blog/issues/19)
- * [Topic以及Channel](https://github.com/loadlj/blog/issues/20)
- * [nsq其它组件](https://github.com/loadlj/blog/issues/21)
