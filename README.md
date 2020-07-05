@@ -9,7 +9,7 @@
  * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
  
 ## 优化相关
-* [关于 CPU Cache](https://github.com/loadlj/blog/issues/24)
+* [CPU Cache](https://github.com/loadlj/blog/issues/24)
 * [零拷贝](https://github.com/loadlj/blog/issues/30)
 * [Golang 性能分析及优化](https://github.com/loadlj/blog/issues/32)
 
