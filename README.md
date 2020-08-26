@@ -18,6 +18,8 @@
 * [Raft 相关概念](https://github.com/loadlj/blog/issues/31)
 * [Raft 实现(MIT6.824 Lab)](https://github.com/loadlj/blog/issues/33)
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
+* [分布式ID](https://github.com/loadlj/blog/issues/36)
+
 
 ## nsq源码分析
  * [nsqd](https://github.com/loadlj/blog/issues/17)
