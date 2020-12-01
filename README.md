@@ -22,6 +22,9 @@
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 * [分布式ID](https://github.com/loadlj/blog/issues/36)
 
+## Linux
+* [《深入理解linux内核》笔记-内存寻址](https://github.com/loadlj/blog/issues/39)
+
 
 ## nsq源码分析
  * [nsqd](https://github.com/loadlj/blog/issues/17)
