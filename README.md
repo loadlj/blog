@@ -8,7 +8,6 @@
  * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
  * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
  * [Golang Graceful Shutdown解析](https://github.com/loadlj/blog/issues/34)
- * [ETCD源码分析](https://github.com/loadlj/blog/issues/38)
  
 ## 优化相关
 * [CPU Cache](https://github.com/loadlj/blog/issues/24)
@@ -21,6 +20,7 @@
 * [Raft 实现(MIT6.824 Lab)](https://github.com/loadlj/blog/issues/33)
 * [分布式锁的几种实现](https://github.com/loadlj/blog/issues/26)
 * [分布式ID](https://github.com/loadlj/blog/issues/36)
+* [ETCD源码分析](https://github.com/loadlj/blog/issues/38)
 
 ## Linux
 * [《深入理解linux内核》笔记-内存寻址](https://github.com/loadlj/blog/issues/39)
