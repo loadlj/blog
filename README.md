@@ -25,6 +25,7 @@
 ## Linux
 * [《深入理解linux内核》笔记-内存寻址](https://github.com/loadlj/blog/issues/39)
 * [《深入理解linux内核》笔记-进程](https://github.com/loadlj/blog/issues/40)
+* [《深入理解linux内核》笔记-内核同步](https://github.com/loadlj/blog/issues/41)
 
 
 ## nsq源码分析
