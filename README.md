@@ -49,9 +49,4 @@
   * [Tornado之web.py(1.0.0)](https://github.com/loadlj/blog/issues/7)
   * [Python 中的Context Managers](https://github.com/loadlj/blog/issues/8)
   * [Tornado之stack_context(1.1.0)](https://github.com/loadlj/blog/issues/9)
-  
-## MySql
- * [mysql初识](https://github.com/loadlj/blog/issues/14)
- * [mysql数据类型](https://github.com/loadlj/blog/issues/11)
- * [mysql索引类型](https://github.com/loadlj/blog/issues/15)
- * [高性能索引策略](https://github.com/loadlj/blog/issues/16)
+ 
