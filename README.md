@@ -1,5 +1,4 @@
-# Blog
-> `issue`技术备忘录，好记性不如烂笔头
+# 随便记点
 
 ## Golang
  * [TCMalloc](https://github.com/loadlj/blog/issues/23)
