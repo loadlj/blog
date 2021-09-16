@@ -9,12 +9,14 @@
  * [Golang Graceful Shutdown解析](https://github.com/loadlj/blog/issues/34)
  
 ## 优化相关
-* [CPU Cache](https://github.com/loadlj/blog/issues/24)
-* [零拷贝](https://github.com/loadlj/blog/issues/30)
-* [Golang 性能分析及优化](https://github.com/loadlj/blog/issues/32)
+* [GC 优化](https://github.com/loadlj/blog/issues/44)
 * [一次优化线上TIME_WAIT过多的connection leak案例](https://github.com/loadlj/blog/issues/37)
 * [烦人的TCP HOL](https://github.com/loadlj/blog/issues/42)
 * [HTTP Client & Server 的Keep Alive](https://github.com/loadlj/blog/issues/43)
+* [CPU Cache](https://github.com/loadlj/blog/issues/24)
+* [零拷贝](https://github.com/loadlj/blog/issues/30)
+* [Golang 性能分析及优化](https://github.com/loadlj/blog/issues/32)
+
 
 ## 分布式
 * [Raft 相关概念](https://github.com/loadlj/blog/issues/31)
