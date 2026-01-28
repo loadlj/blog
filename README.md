@@ -1,5 +1,8 @@
 # 随便记点
 
+## AI
+* [2026 Vibe Coding 实践：当 AI 接管代码，我们还剩下什么？](https://github.com/loadlj/blog/issues/47)
+
 ## Golang
  * [TCMalloc](https://github.com/loadlj/blog/issues/23)
  * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
