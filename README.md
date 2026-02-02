@@ -1,6 +1,7 @@
 # 随便记点
 
 ## AI
+* [LLM 时代的向量数据库与HNSW算法](https://github.com/loadlj/blog/issues/48)
 * [2026 Vibe Coding 实践：当 AI 接管代码，我们还剩下什么？](https://github.com/loadlj/blog/issues/47)
 
 ## Golang
