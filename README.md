@@ -4,15 +4,8 @@
 * [LLM 时代的向量数据库与HNSW算法](https://github.com/loadlj/blog/issues/48)
 * [2026 Vibe Coding 实践：当 AI 接管代码，我们还剩下什么？](https://github.com/loadlj/blog/issues/47)
 
-## Golang
- * [TCMalloc](https://github.com/loadlj/blog/issues/23)
- * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
- * [Sync.Pool源码分析](https://github.com/loadlj/blog/issues/27)
- * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
- * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
- * [Golang Graceful Shutdown解析](https://github.com/loadlj/blog/issues/34)
- 
 ## 优化相关
+* [为什么 Green Tea GC 决定不再"跳格子"？](https://github.com/loadlj/blog/issues/49)
 * [GC 优化](https://github.com/loadlj/blog/issues/44)
 * [一次优化线上TIME_WAIT过多的connection leak案例](https://github.com/loadlj/blog/issues/37)
 * [烦人的TCP HOL](https://github.com/loadlj/blog/issues/42)
@@ -22,6 +15,13 @@
 * [Golang 性能分析及优化](https://github.com/loadlj/blog/issues/32)
 * [高性能缓存库risterio](https://github.com/loadlj/blog/issues/46)
 
+## Golang
+ * [TCMalloc](https://github.com/loadlj/blog/issues/23)
+ * [Hystrix Go](https://github.com/loadlj/blog/issues/25)
+ * [Sync.Pool源码分析](https://github.com/loadlj/blog/issues/27)
+ * [Golang锁的实现](https://github.com/loadlj/blog/issues/28)
+ * [Channel实现原理](https://github.com/loadlj/blog/issues/29)
+ * [Golang Graceful Shutdown解析](https://github.com/loadlj/blog/issues/34)
 
 ## 分布式
 * [Raft 相关概念](https://github.com/loadlj/blog/issues/31)
